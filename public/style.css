@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notonaskharabic.css);
+*{
+padding: 0;
+margin: 0;
+}
+
+.item{
+    /* margin-left: 60%;
+    margin-right: 60%; */
+    /* align-items: center;
+    justify-items: center; */
+    margin-left: 10% ;
+    margin-right: 10% ;
+    /* margin-top: 10% ;
+    margin-bottom: 10% ; */
+
+}
+
+.headings{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif,Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol;
+    text-decoration: underline   #f6ad55;
+    margin-right: 20% ;
+    margin-left: 13%;
+    margin-top:10%;
+    size: 40px;
+    color: #38b2ac;
+    justify-items: right;
+    
+}
+/* footer logo */
+.text-sm1{
+       margin-top: -15px;
+       padding-left: 17px;
+}
+
+.text-sm2{
+    padding-left: -12px;
+    margin-left: -70px;
+}
+
+.headings1{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif,Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol;
+    text-decoration: underline   #f6ad55;
+    margin-right: 40% ;
+    margin-left: 40%;
+    margin-bottom: -15px;
+    font-size: 100%;
+    /* size: 30%; */
+    color: #38b2ac;
+    text:center ;
+    
+}
+
+.faqsQ-A h5{
+    color:rgb(7, 77, 77);
+}
+.faqsQ-A p{
+    color: #22302d;
+}
+
+.faqsQ-A{
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+}
+
+.delivery-details{
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+    
+}
+.delivery-details h4{
+    color:rgb(7, 77, 77);
+}
+
+.mt-4 h5{
+font-size: 30px;
+
+}
